@@ -1,0 +1,260 @@
+[
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\stb_image\\stb_image.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\stb_image\\stb_image.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/stb_image/stb_image.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/stb_image/stb_image.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\Application.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\Application.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/Application.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/Application.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\IndexBuffer.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\IndexBuffer.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/IndexBuffer.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/IndexBuffer.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\Renderer.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\Renderer.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/Renderer.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/Renderer.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\Shader.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\Shader.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/Shader.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/Shader.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\Texture.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\Texture.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/Texture.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/Texture.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\VertexArray.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\VertexArray.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/VertexArray.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/VertexArray.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\VertexBuffer.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\VertexBuffer.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/VertexBuffer.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/VertexBuffer.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\VertexBufferLayout.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\VertexBufferLayout.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/VertexBufferLayout.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/VertexBufferLayout.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\test\\Test.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\test\\Test.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/test/Test.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/test/Test.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\test\\TestClearColor.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\test\\TestClearColor.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/test/TestClearColor.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/test/TestClearColor.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\test\\TestTexture2D.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\test\\TestTexture2D.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/test/TestTexture2D.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/test/TestTexture2D.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui_demo.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui_demo.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui_draw.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui_draw.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui_impl_glfw.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui_impl_glfw.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui_impl_opengl3.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui_tables.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui_tables.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/cmake-opengl.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -o CMakeFiles\\cmake-opengl.dir\\src\\vender\\imgui\\imgui_widgets.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\src\\vender\\imgui\\imgui_widgets.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/src/vender/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/cmake-opengl.dir/src/vender/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\context.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/context.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\init.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/init.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\input.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/input.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\monitor.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/monitor.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\platform.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/platform.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\vulkan.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/vulkan.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\window.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/window.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\egl_context.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/egl_context.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\osmesa_context.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/osmesa_context.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\null_init.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/null_init.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\null_monitor.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/null_monitor.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\null_window.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/null_window.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\null_joystick.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/null_joystick.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_module.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_module.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_time.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_time.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_thread.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_thread.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_init.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_init.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_joystick.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_joystick.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_monitor.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_monitor.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\win32_window.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/win32_window.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glfw/src",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glfw\\src\\wgl_context.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glfw/src/wgl_context.c",
+  "output": "Dependencies/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glew",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/libglew_static.dir/includes_C.rsp  -o CMakeFiles\\libglew_static.dir\\src\\glew.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glew\\src\\glew.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glew/src/glew.c",
+  "output": "Dependencies/glew/CMakeFiles/libglew_static.dir/src/glew.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glew",
+  "command": "D:\\msys2\\mingw64\\bin\\cc.exe -DGLEW_BUILD -DGLEW_NO_GLU -DGLEW_STATIC -DVC_EXTRALEAN -DWIN32_MEAN_AND_LEAN -D_CRT_SECURE_NO_WARNINGS -Dlibglew_shared_EXPORTS @CMakeFiles/libglew_shared.dir/includes_C.rsp  -o CMakeFiles\\libglew_shared.dir\\src\\glew.c.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glew\\src\\glew.c",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glew/src/glew.c",
+  "output": "Dependencies/glew/CMakeFiles/libglew_shared.dir/src/glew.c.obj"
+},
+{
+  "directory": "G:/CMakeToturial/CMakeOpenGL1/build/Dependencies/glm/glm",
+  "command": "D:\\msys2\\mingw64\\bin\\c++.exe -DGLEW_STATIC @CMakeFiles/glm.dir/includes_CXX.rsp -g -o CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c G:\\CMakeToturial\\CMakeOpenGL1\\Dependencies\\glm\\glm\\detail\\glm.cpp",
+  "file": "G:/CMakeToturial/CMakeOpenGL1/Dependencies/glm/glm/detail/glm.cpp",
+  "output": "Dependencies/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj"
+}
+]
