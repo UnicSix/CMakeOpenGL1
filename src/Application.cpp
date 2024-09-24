@@ -125,7 +125,7 @@ int main(void)
 			renderer.Clear();
 			shader.Bind();
 			shader.SetUniformMat4f("u_MVP", mvp);
-			// shader.SetUniform4f("u_Color", 0.4f, 0.3f, 0.8f, 1.0f);
+			shader.SetUniform4f("u_Color", 0.4f, 0.3f, 0.8f, 1.0f);
 			renderer.Draw(va, ib, shader);
 
 			// Start the Dear ImGui frame
