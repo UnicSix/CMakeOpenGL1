@@ -27,8 +27,6 @@
 #include "imgui/imgui_impl_glfw.h"
 #include "imgui/imgui_impl_opengl3.h"
 
-//test commit
-
 int main(void)
 {
     GLFWwindow* window;
