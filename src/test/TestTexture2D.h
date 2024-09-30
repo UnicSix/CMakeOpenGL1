@@ -3,7 +3,6 @@
 #include "Test.h"
 #include "Texture.h"
 #include "VertexArray.h"
-#include "VertexBufferLayout.h"
 #include "VertexBuffer.h"
 #include "glm/glm.hpp"
 
@@ -24,7 +23,6 @@ private:
 	std::unique_ptr<Texture> m_Texture;
 	std::unique_ptr<Shader> m_Shader;
 	std::unique_ptr<VertexBuffer> m_VertexBuffer;
-	// std::unique_ptr<VertexBufferLayout> m_VertexBufferLayout;
 
 	glm::mat4 m_Proj, m_View;
 	glm::vec3 m_TranslationA, m_TranslationB; 

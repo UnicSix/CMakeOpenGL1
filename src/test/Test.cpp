@@ -4,7 +4,6 @@
 namespace test {
 	TestMenu::TestMenu(Test*& currentTestPointer)
 	:m_CurrentTest(currentTestPointer){
-
 	}	
 	void test::TestMenu::OnImGuiRender(){
 		for(auto& test : m_Tests){

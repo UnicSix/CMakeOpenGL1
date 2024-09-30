@@ -6,7 +6,7 @@ project( CMakeOpenGL1 )
 
 set( CMakeOpenGL1_SRC src/*.cpp )
 
-file( GLOB_RECURSE CMakeOpenGL1_SRC "src/*.cpp" )
+file( GLOB_RECURSE CMakeOpenGL1_SRC "src/*.c*" )
 file( GLOB_RECURSE IMGUI_SRC "/src/vender/imgui/i*.cpp" )
 #file( GLOB_RECURSE CMakeOpenGL1_TEST "src/test/*.cpp" )
 

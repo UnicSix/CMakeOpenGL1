@@ -1,5 +1,6 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
+#include <cstddef>
 #include <iostream>
 #include <iterator>
 #include <string>
@@ -15,6 +16,7 @@
 #include "test/Test.h"
 #include "test/TestTexture2D.h"
 #include "test/TestClearColor.h"
+#include "GLDebugMessageCallback.h"
 
 #include "glm/glm.hpp"
 #include "glm/gtc/matrix_transform.hpp"
@@ -38,8 +40,9 @@ int main(void)
 		return -1;
 
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
-	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 4);
+	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 6);
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_COMPAT_PROFILE);
+	glfwWindowHint(GLFW_OPENGL_DEBUG_CONTEXT, GL_TRUE);
 
     /* Create a windowed mode window and its OpenGL context */
     window = glfwCreateWindow(wd_width, wd_height, "Hello World", NULL, NULL);
@@ -59,6 +62,10 @@ int main(void)
     }
 
     std::cout << glGetString(GL_VERSION) << std::endl;
+
+	GLCall(glEnable(GL_DEBUG_OUTPUT));
+	GLCall(glEnable(GL_DEBUG_OUTPUT_SYNCHRONOUS));
+	GLCall(glDebugMessageCallback(GLDebugMessageCallback, nullptr));
 
 	{
 		GLCall(glEnable(GL_BLEND));
@@ -92,6 +99,7 @@ int main(void)
 			0, 1, 2,
 			2, 3, 0
 		};
+
 		VertexArray va;
 		VertexBuffer vb(positions, 4 * 4 * sizeof(float));
 		Texture texture("../res/textures/johnnyCat.png");
@@ -106,17 +114,10 @@ int main(void)
 		shader.SetUniform4f("u_Color", 0.8f, 0.3f, 0.8f, 1.0f);
 		shader.SetUniform1i("u_Texture", 0);
 
-		va.Unbind();
-		vb.Unbind();
-		ib.Unbind();
-		shader.Unbind();
-
 		glm::mat4 proj = glm::ortho(0.0f, 960.0f, 0.0f, 540.0f, -1.0f, 1.0f);
 		glm::mat4 view = glm::translate(glm::mat4(1.0f), glm::vec3(0, 0, 0));
 		glm::mat4 model = glm::translate(glm::mat4(1.0f), glm::vec3(200, 200, 0));
 		glm::mat4 mvp = proj * view * model;
-
-		texture.Bind();
 
 		/* Loop until the user closes the window */
 		while (!glfwWindowShouldClose(window))
@@ -126,6 +127,7 @@ int main(void)
 			shader.Bind();
 			shader.SetUniformMat4f("u_MVP", mvp);
 			shader.SetUniform4f("u_Color", 0.4f, 0.3f, 0.8f, 1.0f);
+			texture.Bind();
 			renderer.Draw(va, ib, shader);
 
 			// Start the Dear ImGui frame
