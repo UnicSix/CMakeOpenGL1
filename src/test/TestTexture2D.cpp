@@ -43,7 +43,7 @@ TestTexture2D::TestTexture2D():
 
 	m_Shader = std::make_unique<Shader>("../res/shaders/Basic.shader");
 	m_Shader->Bind();
-	m_Shader->SetUniform4f("u_Color", 0.2f, 0.7f, 0.8f, 1.0f);
+	m_Shader->SetUniform4f("u_Color", 0.2f, 0.5f, 0.8f, 1.0f);
 	m_Shader->SetUniform1i("u_Texture", 0);
 	m_IndexBuffer->Bind();
 }
@@ -54,7 +54,7 @@ void TestTexture2D::OnUpdate(float deltaTime){
 }
 
 void TestTexture2D::OnRender(){
-	GLCall(glClearColor(0.2f, 0.7f, 0.8f, 1.0f));
+	GLCall(glClearColor(0.2f, 0.5f, 0.8f, 1.0f));
 	GLCall(glClear(GL_COLOR_BUFFER_BIT));
 	
 	Renderer renderer;
